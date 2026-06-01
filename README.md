@@ -17,13 +17,13 @@ Password hash identification and password auditing performed in Kali Linux using
 ## Evidence
 
 ### Hash Identification
-![Hash Identification](screenshots/hash identification.png)
+![Hash Identification](screenshots/hash_identification.png)
 
 ### Hashcat Execution
-![Hashcat Execution](screenshots/hashcat attack mode.png)
+![Hashcat Execution](screenshots/hashcat_attack_mode.png)
 
 ### Password Recovery
-![Password Recovery](screenshots/password recovered.png)
+![Password Recovery](screenshots/password_recovered.png)
 
 ## Skills Demonstrated
 * Password Security
@@ -35,3 +35,4 @@ Password hash identification and password auditing performed in Kali Linux using
 
 ## Disclaimer
 Activities were performed in a controlled laboratory environment for educational purposes only.
+
